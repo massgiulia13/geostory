@@ -3,7 +3,7 @@ Repository for the project of the exam of  Electronic Publishing and Digital Sto
 
 Check the website<link al sito> of the project.
 
-Check the jupyter notebook of the project: <https://mybinder.org/v2/gh/massgiulia13/geostory/HEAD>
+Check the jupyter notebook of the project: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/massgiulia13/geostory/HEAD)
 ## Abstract
 Geostory is a geospatial analysis of art historian’s birthplace/country of citizenship in relation to the period they studied among different institutions from a distributional point of view. The aim is to find out which factors influence the most art historians in the choice of the artistic period to study. 
 
