@@ -1,5 +1,5 @@
 # Geostory
-Repository for the project of the exam of  ###  Electronic Publishing and Digital Storytelling held by Professor Marilena Daquino, within the Digital Humanities and Digital Knowledge course at the University of Bologna.
+Repository for the project of the exam of  ### Electronic Publishing and Digital Storytelling held by Professor Marilena Daquino, within the Digital Humanities and Digital Knowledge course at the University of Bologna.
 Check the website<link al sito> of the project.
 Check the jupyter notebook of the project: <link a binder>
 
@@ -9,7 +9,7 @@ Geostory is a geospatial analysis of art historian’s birthplace/country of cit
 ### Research questions
 
 ## Team
-### Giulia Massimino: ### knowledge extraction, data cleaning and analysis, data visualization
+### Giulia Massimino: knowledge extraction, data cleaning and analysis, data visualization
 ### Ariele Santello : knowledge extraction,data analysis, data visualization, web site
 ### Benedetta Togni: data cleaning, data analysis, data visualization, storytelling
 ### Szilvia Baràth: website, storytelling and communication
